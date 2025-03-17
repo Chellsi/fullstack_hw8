@@ -1,0 +1,43 @@
+.wrapper {
+    clear: both;
+    background-color: rgb(224, 224, 224);
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    min-width: 1200px;
+}
+
+.container {
+    width: 448px;
+}
+
+.centered {
+    margin: 0 auto;
+}
+
+.block {
+    background-color: grey;
+    border: 2px solid black;
+    width: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.small {
+    height: 50px;
+}
+
+.big {
+    height: 114px;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
